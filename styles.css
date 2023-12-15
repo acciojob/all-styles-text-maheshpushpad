@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-heading{
-	Font size: 20 pixels
+.heading{
+Font size: 20 pixels
 Text color: white
 Text decoration: underline
-	
-	
-} 
-div{
-	background color :purple;
+Width: 200px
+Background color: purple
+Left side border color: green
+Left side border thickness: 5 pixels
+Padding on all sides: 10px
 }
